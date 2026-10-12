@@ -1,0 +1,6 @@
+{
+  "name": "GráficaPro",
+  "description": "Gestão completa para gráfica: pedidos, custos de produção e insumos, estoque, catálogo digital, financeiro e Kanban.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
